@@ -1,0 +1,1 @@
+Batata bit es un proyecto básico de maquetado web donde inicie en Mobile First y luego para otras pantallas. Puse en práctica mis habilidades de maquetado, la arquitectura de css intente hacerla en la nomenclatura BEM.  
